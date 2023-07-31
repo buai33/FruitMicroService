@@ -1,0 +1,5 @@
+Fruit Month Price Service
+http://localhost:8000/fruit-month-price/fruit/banana/month/jan
+
+Fruit Total Price Service
+http://localhost:8100/fruit-total-price/fruit/banana/jan/quatity/10
